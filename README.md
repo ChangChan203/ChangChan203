@@ -1,6 +1,5 @@
 
 <h3 align="center">Hey bro, It's Chang Chan</h3>
-<p align="center">New Face in Code World</p>
 
 - [PTIT](https://portal.ptit.edu.vn/) student.
 - From Nam Dinh.
